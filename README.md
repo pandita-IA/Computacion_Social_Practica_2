@@ -24,14 +24,15 @@ La calificación de la práctica será puesta por los profesores en función de 
 
 
 
+**Título:** Distribution-based Learnable Filters with Side Information for Sequential Recommendation
 
-@inproceedings{liu2023distribution,
-  title={Distribution-based Learnable Filters with Side Information for Sequential Recommendation},
-  author={Liu, Haibo and Deng, Zhixiang and Wang, Liang and Peng, Jinjia and Feng, Shi},
-  booktitle={Proceedings of the 17th ACM Conference on Recommender Systems},
-  pages={78--88},
-  year={2023}
-}
+**Autores:** Haibo Liu, Zhixiang Deng, Liang Wang, Jinjia Peng, Shi Feng
+
+**Evento:** Proceedings of the 17th ACM Conference on Recommender Systems
+
+**Páginas:** 78-88
+
+**Año:** 2023
 
 
 Créditos al profesor de la asignatura de Computación Social y Personalización por sus ideas para el trabajo y los respectivos dueños de los documentos originales

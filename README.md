@@ -17,7 +17,6 @@ A continuación, se deberá realizar un resumen del artículo en un póster cien
 Los requisitos a cumplir son:
 
 La práctica se realizará en parejas.
-Se deberá avisar antes del 28 de abril via email al profesor sobre el artículo que se desea utilizar, proponiendo hasta tres alternativas en caso de que otra pareja haya seleccionado previamente el mismo.
 El póster deberá tener un formato DIN A1: 841×594 mm.
 El póster deberá entregarse en formato digital, junto con el código realizado durante el estudio de réplica, antes del viernes 17 de mayo a través de Moodle.
 El viernes 24 de mayo se presentarán físicamente los pósteres.

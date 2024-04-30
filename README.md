@@ -2,7 +2,7 @@
 Repositorio para la segunda práctica de la asignatura de computación social.
 
 Distribution-based Learnable Filters with Side Information for Sequential Recommendation: https://dl.acm.org/doi/pdf/10.1145/3604915.3608782
-
+Enlace al github mencionado: https://github.com/zxiang30/DLFS-Rec
 
 El congreso ACM Conference on Recommender Systems (RecSys) recoge cada año las principales aportaciones de los investigadores de todo el mundo al campo de los sistemas de recomendación. El congreso se organiza en sesiones que agrupan las publicaciones en temas de interés para la conferencia de cada año. En este trabajo deberéis investigar los últimos avances en el ámbito de los sistemas de recomendación mediante la lectura, compresión, resumen y replicación de alguna de las publicaciones presentadas en el RecSys de los años 2023 y 2022.
 

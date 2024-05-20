@@ -45,3 +45,4 @@ En KNN, Matriz Factorization, Neural Collaborative Filter y Bernoulli Matrix se 
 En prueba_paper hemos combinado el modelo estudiado con el NCF para lograr sacar las métricas teniendo como estudio qué tan buenas fueron las recomendaciones que le hicimos al usuario.
 Las bajas métricas son debido a que hemos supuesto que nuestros id's de usuario y de item coinciden (cosa que en realidad  no ocurre) al no tener acceso a los mismos datos y el mismo preprocesamiento.
 
+!(https://github.com/pandita-IA/Computacion_Social_Practica_2/blob/main/Infograf%C3%ADa%20CSP2%20(594%20x%20841%20mm).png)

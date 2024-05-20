@@ -36,3 +36,12 @@ La calificación de la práctica será puesta por los profesores en función de 
 
 
 Créditos al profesor de la asignatura de Computación Social y Personalización por sus ideas para el trabajo y los respectivos dueños de los documentos originales
+
+
+
+Los datasets que hemos empleado son los datasets que contienen los ratings de los datasets de Amazon (https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews) [All_Beauty.csv, Home_and_Kitchen.csv, Sports_and_Outdoors.csv, Toys_and_Games.csv]
+
+En KNN, Matriz Factorization, Neural Collaborative Filter y Bernoulli Matrix se encuentran los modelos y las métricas utilizadas en clase
+En prueba_paper hemos combinado el modelo estudiado con el NCF para lograr sacar las métricas teniendo como estudio qué tan buenas fueron las recomendaciones que le hicimos al usuario.
+Las bajas métricas son debido a que hemos supuesto que nuestros id's de usuario y de item coinciden (cosa que en realidad  no ocurre) al no tener acceso a los mismos datos y el mismo preprocesamiento.
+
